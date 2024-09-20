@@ -5,6 +5,9 @@
 
 using namespace std;
 
-int main() {
-        cout<<"Hello, world"<<endl;
+extern string hi;
+
+void hello() {
+     hi  = "Hello, world!";
+     cout << hi;
 }
