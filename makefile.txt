@@ -1,0 +1,2 @@
+myprog:
+        g++ main.cpp hello.cpp -o myprog
