@@ -1,4 +1,5 @@
-/* Popova Yaroslava st132757@student.spbu.ru first project
+/* Popova Yaroslava st132757@student.spbu.ru
+	 project №1 "Hello world"
 */
 #include <iostream>
 #include <string>
